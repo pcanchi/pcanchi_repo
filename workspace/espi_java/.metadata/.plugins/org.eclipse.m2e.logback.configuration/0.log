@@ -1,0 +1,285 @@
+2011-11-26 15:20:42,153 [Worker-7] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo1.maven.org/maven2
+2011-11-26 15:20:53,009 [Worker-7] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo1.maven.org/maven2 in 11338 ms
+2011-11-26 15:21:40,143 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi:espi-common:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/espi-common/pom.xml.
+2011-11-26 15:21:41,681 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi:espi-common:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/espi-common/pom.xml.
+2011-11-26 15:21:41,819 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:21:41,821 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:21:41,843 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:21:41,848 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:21:42,582 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi:espi-common:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/espi-common/pom.xml.
+2011-11-26 15:21:43,716 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:21:43,718 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:21:43,720 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:21:43,720 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:21:59,823 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-26 15:22:04,134 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-26 15:22:24,538 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-26 15:22:25,238 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:22:25,241 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-26 15:22:25,252 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:22:25,253 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:23:01,291 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-26 15:23:01,707 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-26 15:23:12,292 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-26 15:23:13,482 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:23:13,483 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-26 15:23:13,485 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:23:13,485 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:25:17,134 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:17,134 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:25:17,135 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:17,136 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:25:17,493 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:17,493 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:25:17,495 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:17,496 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:25:17,746 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:17,747 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:25:17,748 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:17,749 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:25:22,593 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:22,602 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-26 15:25:22,605 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:22,605 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:25:23,752 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:23,753 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-26 15:25:23,754 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:25:23,754 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:58:13,545 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:58:13,546 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 15:58:13,548 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 15:58:13,573 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:00:37,818 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:00:37,821 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:00:37,822 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:00:37,822 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:00:49,078 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/user1/workspace/espi_java/ThirdParty
+2011-11-26 16:00:49,078 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2011-11-26 16:01:09,150 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:01:09,151 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:01:09,152 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:01:09,152 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:03:05,868 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-26 16:03:07,844 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:03:07,845 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-26 16:03:07,846 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:03:07,847 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:03:08,071 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/user1/workspace/espi_java/ThirdParty
+2011-11-26 16:03:08,072 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2011-11-26 16:03:52,178 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/user1/workspace/espi_java/espi-common
+2011-11-26 16:03:52,180 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2011-11-26 16:04:04,055 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:04:04,064 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:04:04,066 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:04:04,066 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:04:43,552 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/user1/workspace/espi_java/ThirdParty
+2011-11-26 16:04:43,552 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2011-11-26 16:05:22,485 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:05:22,500 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-26 16:05:22,504 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:05:22,504 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:07:37,323 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:07:37,346 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2011-11-26 16:07:37,353 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:07:37,355 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:11:11,213 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:11:11,213 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:11:11,227 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:11:11,228 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:13:43,857 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:13:43,857 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:13:43,858 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:13:43,858 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:13:54,525 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/user1/workspace/espi_java/DataCustodian
+2011-11-26 16:13:54,527 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2011-11-26 16:14:30,811 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:14:30,813 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-26 16:14:30,831 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:14:30,832 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:19:10,680 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:19:10,681 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:19:10,682 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:19:10,682 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:19:22,614 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:19:22,614 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:19:22,615 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:19:22,615 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:20:01,396 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:20:01,396 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:20:01,397 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:20:01,398 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:20:32,630 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:20:32,630 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:20:32,631 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:20:32,632 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:20:43,166 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:20:43,167 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:20:43,168 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:20:43,168 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:22:02,417 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/user1/workspace/espi_java/ThirdParty
+2011-11-26 16:22:02,417 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2011-11-26 16:22:19,003 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:22:19,004 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-26 16:22:19,011 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-26 16:22:19,011 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 17:49:58,761 [Worker-12] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo1.maven.org/maven2
+2011-11-27 17:50:41,407 [Worker-12] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo1.maven.org/maven2 in 42649 ms
+2011-11-27 17:51:27,674 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-27 17:51:31,609 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/maven-metadata.xml
+2011-11-27 17:51:32,752 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/maven-metadata.xml
+2011-11-27 17:51:32,752 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/maven-metadata.xml
+2011-11-27 17:51:33,293 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/repositories/releases/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/maven-metadata.xml
+2011-11-27 17:51:33,511 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/common-0.1.0.BUILD-SNAPSHOT.pom
+2011-11-27 17:51:33,687 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/common-0.1.0.BUILD-SNAPSHOT.pom
+2011-11-27 17:51:33,771 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/common-0.1.0.BUILD-SNAPSHOT.pom
+2011-11-27 17:51:34,153 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/repositories/releases/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/common-0.1.0.BUILD-SNAPSHOT.pom
+2011-11-27 17:51:34,158 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.energyos.espi:common:jar:0.1.0.BUILD-SNAPSHOT is missing, no dependency information available
+2011-11-27 17:51:35,268 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/common-0.1.0.BUILD-SNAPSHOT.jar
+2011-11-27 17:51:35,466 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/common-0.1.0.BUILD-SNAPSHOT.jar
+2011-11-27 17:51:35,550 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/common-0.1.0.BUILD-SNAPSHOT.jar
+2011-11-27 17:51:35,912 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/repositories/releases/org/energyos/espi/common/0.1.0.BUILD-SNAPSHOT/common-0.1.0.BUILD-SNAPSHOT.jar
+2011-11-27 17:51:36,013 [Worker-3] ERROR o.e.m.c.i.p.WorkspaceStateWriter - Error writing workspace state file
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:220) ~[org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.WorkspaceStateWriter.mavenProjectChanged(WorkspaceStateWriter.java:58) ~[org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:724) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:847) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:280) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:58) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:120) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.0.v20110523.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.0.v20110523.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.5.100.v20110404.jar:na]
+2011-11-27 17:51:36,177 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.energyos.espi:common:jar:0.1.0.BUILD-SNAPSHOT is missing, no dependency information available
+2011-11-27 17:51:36,680 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.energyos.espi:common:jar:0.1.0.BUILD-SNAPSHOT is missing, no dependency information available
+2011-11-27 17:51:37,669 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:51:37,673 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-27 17:51:37,681 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:51:37,681 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 17:51:37,683 [Worker-3] INFO  o.m.i.e.w.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of DataCustodian
+2011-11-27 17:51:37,684 [Worker-3] INFO  o.m.i.e.w.f.ResourceFilteringBuildParticipant - Executing resource filtering for DataCustodian
+2011-11-27 17:51:37,690 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:51:47,177 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-27 17:51:47,382 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.energyos.espi:common:jar:0.1.0.BUILD-SNAPSHOT is missing, no dependency information available
+2011-11-27 17:51:47,701 [Worker-3] ERROR o.e.m.c.i.p.WorkspaceStateWriter - Error writing workspace state file
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:220) ~[org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.WorkspaceStateWriter.mavenProjectChanged(WorkspaceStateWriter.java:58) ~[org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:724) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:847) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:280) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:58) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:120) [org.eclipse.m2e.core_1.0.100.20110804-1717.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.0.v20110523.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.0.v20110523.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.7.100.v20110510-0712.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.5.100.v20110404.jar:na]
+2011-11-27 17:51:47,993 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.energyos.espi:common:jar:0.1.0.BUILD-SNAPSHOT is missing, no dependency information available
+2011-11-27 17:51:48,304 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:51:48,306 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-27 17:51:48,309 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:51:48,309 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 17:51:48,309 [Worker-3] INFO  o.m.i.e.w.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ThirdParty
+2011-11-27 17:51:48,309 [Worker-3] INFO  o.m.i.e.w.f.ResourceFilteringBuildParticipant - Executing resource filtering for ThirdParty
+2011-11-27 17:51:48,319 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:53:03,833 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi:common:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/common/pom.xml.
+2011-11-27 17:53:45,341 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-27 17:53:45,952 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-27 17:53:46,385 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-27 17:54:03,788 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-27 17:54:04,292 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-27 17:54:04,777 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-27 17:54:29,176 [Worker-16] INFO  o.e.m.c.u.i.UpdateConfigurationJob - Update started
+2011-11-27 17:54:29,295 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-27 17:54:29,914 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DataCustodian/src/main/java
+2011-11-27 17:54:29,922 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DataCustodian/src/main/resources
+2011-11-27 17:54:29,922 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DataCustodian/src/test/java
+2011-11-27 17:54:29,923 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DataCustodian/src/test/resources
+2011-11-27 17:54:29,990 [Worker-16] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /DataCustodian/src/main/aspect does not exist yet. Create it and re-run configuration.
+2011-11-27 17:54:29,990 [Worker-16] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /DataCustodian/src/main/aspect does not exist yet. Create it and re-run configuration.
+2011-11-27 17:54:30,526 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-27 17:54:31,825 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ThirdParty/src/main/java
+2011-11-27 17:54:31,826 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ThirdParty/src/main/resources
+2011-11-27 17:54:31,827 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ThirdParty/src/test/java
+2011-11-27 17:54:31,828 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ThirdParty/src/test/resources
+2011-11-27 17:54:31,838 [Worker-16] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /ThirdParty/src/main/aspect does not exist yet. Create it and re-run configuration.
+2011-11-27 17:54:31,839 [Worker-16] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /ThirdParty/src/main/aspect does not exist yet. Create it and re-run configuration.
+2011-11-27 17:54:32,262 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-27 17:54:32,326 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi:common:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/common/pom.xml.
+2011-11-27 17:54:32,581 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2011-11-27 17:54:32,583 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /common/src/main/resources
+2011-11-27 17:54:32,583 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2011-11-27 17:54:32,583 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /common/src/test/resources
+2011-11-27 17:54:36,146 [Worker-16] INFO  o.e.m.c.u.i.UpdateConfigurationJob - Update completed: 6 sec
+2011-11-27 17:54:39,878 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi:common:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/common/pom.xml.
+2011-11-27 17:54:40,343 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:54:40,343 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 17:54:40,349 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:54:40,362 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 17:55:07,003 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-27 17:55:08,391 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:55:08,400 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-27 17:55:08,440 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:55:08,440 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 17:55:19,112 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-27 17:55:20,539 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:55:20,540 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-27 17:55:20,549 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 17:55:20,550 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 17:55:22,038 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-27 17:55:22,809 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-27 17:55:23,436 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi:common:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/common/pom.xml.
+2011-11-27 17:56:58,341 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi:common:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/common/pom.xml.
+2011-11-27 17:57:02,874 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/user1/workspace/espi_java/common
+2011-11-27 17:57:02,874 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2011-11-27 18:01:54,745 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi:common:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/common/pom.xml.
+2011-11-27 18:01:55,151 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:55,323 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:55,580 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:55,948 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/repositories/releases/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:56,399 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:56,409 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:56,858 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:57,053 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:57,134 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:57,490 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/repositories/releases/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:57,696 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:57,697 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.pom
+2011-11-27 18:01:57,928 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact aspectj:aspectjrt:jar:1.5.4 has been relocated to org.aspectj:aspectjrt:jar:1.5.4
+2011-11-27 18:01:58,114 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.jar
+2011-11-27 18:01:58,286 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.jar
+2011-11-27 18:01:58,368 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.jar
+2011-11-27 18:01:58,722 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/repositories/releases/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.jar
+2011-11-27 18:01:58,918 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.jar
+2011-11-27 18:01:59,584 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/aspectj/aspectjrt/1.5.4/aspectjrt-1.5.4.jar
+2011-11-27 18:01:59,713 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.datacustodian:datacustodian:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/DataCustodian/pom.xml.
+2011-11-27 18:02:00,023 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.energyos.espi.thirdparty:thirdparty:0.1.0.BUILD-SNAPSHOT @ /home/user1/workspace/espi_java/ThirdParty/pom.xml.
+2011-11-27 18:02:19,316 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 18:02:19,319 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 18:02:19,320 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 18:02:19,321 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 18:02:20,436 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 18:02:20,438 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-27 18:02:20,440 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 18:02:20,446 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2011-11-27 18:02:21,619 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 18:02:21,635 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2011-11-27 18:02:21,636 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2011-11-27 18:02:21,637 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
